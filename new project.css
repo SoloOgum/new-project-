@@ -1,0 +1,170 @@
+body{
+    size:cover;
+}
+
+
+.background  {
+    background-color: #9B26AF;
+    height: 500px;
+    margin-bottom: 150px;
+}
+
+.bg-purple {
+    background-color: #7A1EA1;
+    padding: 15px;
+}
+
+/* .margin1 {
+     margin-left: 60px;
+} */
+
+/* .margins {
+        padding-top: 100px;
+} */
+
+/* .logo{
+    margin-right: 700px;
+    margin-left: 62px;
+    font-size: 17px;
+} */
+
+/* .letter0 {
+    padding: 0 10px; 
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+} */
+
+li {
+    font-size: 12px;
+    padding-left: 4px;
+    padding-right: 4px;
+    color: white;
+}
+
+.linkcolor {
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+}
+
+.pcolor {
+    color: #BA85DD;
+    margin-top: 25px;
+}
+
+.btn-purple {
+    background-color: #7B4CFE;
+}
+
+.btn-text {
+    color: white;
+    font-size: 12px;
+    padding: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.img1 {
+    /* float: center; */
+    top: 0;
+    /* margin-top: 50px; */
+    /* position: absolute; */
+}
+
+#xtramargin {
+    margin-top: 20px;
+}
+
+.paragraph {
+    font-size: 17px;
+    color: gray;
+    line-height: 1.8;
+    font-weight: 500;
+}
+
+.hr1 {
+    height: 1.5px;
+    background-color: #7A1EA1;
+}
+
+.greytext {
+color: gray;
+font-weight: 100;
+}
+
+.background2  {
+    background-color: #9B26AF;
+    height: 730px;
+  
+}
+
+.hr2 {
+    height: 0.5px;
+    background-color: white;
+}
+
+.thirdpagetext {
+    color: white;
+}
+
+.hr3 {
+    height: 2px;
+    background-color: #7A1EA1;
+    /* text-align: right; */
+}
+
+.background3  {
+    background-color: #9B26AF;
+    height: 400px; 
+}
+
+.h1white {
+    color:white;
+    font-size: 70px;
+    font-weight: 500px;
+}
+
+.logowhite {
+    color: white;
+    font-size: 30px;
+}
+
+.textwhite {
+    color: white;
+    font-size: 25px;
+}
+
+.background4 {
+    background-color: #7A1EA1;
+    /* padding-: 20px; */
+    /* height: 10px;
+    width: 20px; */
+}
+
+.boxshadow {
+    box-shadow: gray;
+}
+
+.background5  {
+    background-color: #9B26AF;
+    height: 500px;
+}
+
+.background6  {
+    background-color: #9B26AF;
+    height: 250px;
+}
+
+.btn-circle.btn-xl {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+}
